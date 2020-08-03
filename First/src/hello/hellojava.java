@@ -15,6 +15,7 @@ public class hellojava {
 		System.out.println("내일만나요");
 		System.out.println("소주");
 		System.out.println("수정함");
+		System.out.println("깃허브 올리고 수정함!");
 
 	}
 
